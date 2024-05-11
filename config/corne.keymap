@@ -48,7 +48,7 @@
 //                    |  0  |     | ENT |   | SPC |     | ALT |
                         bindings = <
    &kp ESC &kp N1 &kp N2 &kp N3 &kp N4 &kp N5       &kp N6 &kp N7 &kp N8 &kp N9 &kp N0 &kp BSPC
-   &kp LCTRL &kp N4 &kp N5 &kp N6 &kp DQT &kg SQT   &kp F6 &kp F7 &kp F8 &kp PG_UP &kp HOME &kp END
+   &kp LCTRL &kp N4 &kp N5 &kp N6 &kp DQT &kp SQT   &kp F6 &kp F7 &kp F8 &kp PG_UP &kp HOME &kp END
    &kp LSHFT &kp N7 &kp N8 &kp N9 &trans &trans     &kp F9 &kp F10 &kp F11 &kp PG_DN &kp F12 &kp ESC
                         &kp N0 &kp RET &trans       &trans &kp SPACE &kp RALT
                         >;
